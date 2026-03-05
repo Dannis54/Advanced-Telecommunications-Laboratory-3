@@ -140,7 +140,7 @@ Aliasing is a major concern in digital signal processing systems, and proper sam
 
 ## Natural Sampling Block Diagram
 
-![Natural Sampling Block Diagram](images/exp11_pic1.png)
+![Natural Sampling Block Diagram](images/exp11_PIC1.png)
 
 Figure 1 shows the block diagram used to demonstrate the **natural sampling process** using the Telecoms-Trainer modules.
 
@@ -148,7 +148,7 @@ Figure 1 shows the block diagram used to demonstrate the **natural sampling proc
 
 ## Output
 
-![Natural Sampling Output](images/exp11_pic2.png)
+![Natural Sampling Output](images/exp11_PIC2.png)
 
 The oscilloscope output shows the resulting sampled waveform obtained from the natural sampling configuration.
 
@@ -169,7 +169,7 @@ These characteristics indicate that the signal is being directly passed through 
 
 ## Sample-and-Hold Scheme Block Diagram
 
-![Sample and Hold Block Diagram](images/exp11_pic3.png)
+![Sample and Hold Block Diagram](images/exp11_PIC3.png)
 
 This configuration models the **sample-and-hold sampling technique**, which is commonly used in digital systems.
 
@@ -177,7 +177,7 @@ This configuration models the **sample-and-hold sampling technique**, which is c
 
 ## Output
 
-![Sample and Hold Output](images/exp11_pic4.png)
+![Sample and Hold Output](images/exp11_PIC4.png)
 
 The oscilloscope waveform displays the output of the sample-and-hold sampling system.
 
@@ -219,7 +219,7 @@ https://drive.google.com/file/d/1csFihkhbXtEx4kAG__1YBwU1-oiRESU-/view?usp=drive
 
 # Part C – Reconstructing a Sampled Message
 
-![Reconstruction Block Diagram](images/exp11_pic5.png)
+![Reconstruction Block Diagram](images/exp11_PIC5.png)
 
 In this part of the experiment, the sampled signal is passed through a **reconstruction filter** to recover the original message signal.
 
@@ -242,7 +242,7 @@ https://drive.google.com/file/d/1VnD_w1dVP2FJPg1sonHtyEXRq8awluh4/view?usp=drive
 
 # Part D – Aliasing
 
-![Aliasing Block Diagram](images/exp11_pic6.png)
+![Aliasing Block Diagram](images/exp11_PIC6.png)
 
 Aliasing occurs when the sampling frequency becomes too low relative to the frequency of the message signal.
 
@@ -250,7 +250,7 @@ Aliasing occurs when the sampling frequency becomes too low relative to the freq
 
 ## Output
 
-![Aliasing Output](images/exp11_pic7.png)
+![Aliasing Output](images/exp11_PIC7.png)
 
 ### Questions
 
