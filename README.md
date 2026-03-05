@@ -140,7 +140,7 @@ Aliasing is a major concern in digital signal processing systems, and proper sam
 
 ## Natural Sampling Block Diagram
 
-![Natural Sampling Block Diagram](images/PIC1.png)
+![Natural Sampling Block Diagram](PIC1.png)
 
 Figure 1 shows the block diagram used to demonstrate the **natural sampling process** using the Telecoms-Trainer modules.
 
